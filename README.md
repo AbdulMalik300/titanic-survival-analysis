@@ -64,22 +64,22 @@ Python | Pandas | NumPy | Matplotlib | Google Colab
 
 ## Visualizations
 
-![Survival by Gender](visualizations/survival_by_gender.png)
+![Survival by Gender](graph1.png)
 *Women survived at a far higher rate than men.*
 
-![Survival by Class](visualizations/survival_by_class.png)
+![Survival by Class](graph2.png)
 *Survival dropped sharply from 1st to 3rd class.*
 
-![Age Distribution by Survival](visualizations/age_distribution.png)
+![Age Distribution by Survival](age_distribution.png)
 *Age distribution compared between survivors and non-survivors.*
 
-![Fare by Survival](visualizations/fare_by_survival.png)
+![Fare by Survival](fare_by_survival.png)
 *Survivors generally paid higher fares.*
 
-![Survival by Family Size](visualizations/survival_by_familysize.png)
+![Survival by Family Size](survival_by_familysize.png)
 *Small families had better survival odds than solo travelers or very large families.*
 
-![Correlation Heatmap](visualizations/correlation_heatmap.png)
+![Correlation Heatmap](correlation_heatmap.png)
 *Passenger class shows the strongest correlation with survival among numeric features.*
 
 ## Findings
